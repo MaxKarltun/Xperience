@@ -1,75 +1,69 @@
 # Xperience
 
-JavaScript - UX Design Agency Services Site - Development mobile responsive web site.
-____________________________________________________________________________________________
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#tech-stack)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#tech-stack)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#tech-stack)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#tech-stack)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#tech-stack)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#tech-stack)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#tech-stack)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#tech-stack)
+[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#tech-stack)
 
-_____________________________________________________________________________________________
-# Project Visual 😎:
+A mobile-responsive UX design agency website built with HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
-![Ss](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_2048_1536/0/1705527310626?e=1717027200&v=beta&t=CYHfGy1PzFz3Smnc_Q0oMoWIEZsnzVTltMJSZA6Jv-Q)
+## Live Demo
 
+[View the project](https://maxkarltun.github.io/Xperience/)
 
- GO TO MAXIMO'S PIZZA  - https://maxkarltun.github.io/Xperience/
-________________________________________________________________________________________________
+## Preview
 
-## What was done.
+![Xperience project preview](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_2048_1536/0/1705527310626?e=1717027200&v=beta&t=CYHfGy1PzFz3Smnc_Q0oMoWIEZsnzVTltMJSZA6Jv-Q)
 
-In this application excercise the following technology was used.
+## Project Overview
 
-    1.HTML elements, attributes, and properties
-    2.CSS class selectors
-    3.JavaScript objects
-    4.JavaScript functions
-    4.Web Storage API
-    5. The window object
-    6.Git and GitHub
+This project showcases a responsive marketing website for a UX design agency. The site was developed as a front-end exercise focused on layout, styling, responsiveness, and basic browser-based interactivity.
 
-________________________________________________________________________________________________________________________________________________________
+## Features
 
-## Technologies In Practice :
-  
-  
-TECHNOLOGY USED:
+- Responsive layout for mobile and desktop screens
+- Semantic HTML structure
+- Organized CSS styling
+- JavaScript-driven interactivity
+- Form implementation
+- SEO and accessibility improvements
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+## Tech Stack
 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+- Web Storage API
+- Window Object API
+- Git & GitHub
+- Adobe Creative Cloud
+- Adobe Photoshop
+- Visual Studio Code
 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+## What Was Practiced
 
+- HTML elements, attributes, and properties
+- CSS class selectors
+- JavaScript objects and functions
+- Web Storage API usage
+- Working with the `window` object
+- Version control with Git and GitHub
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+## Work Completed
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- [x] Built the page structure with semantic HTML
+- [x] Added CSS with a clear hierarchical structure
+- [x] Implemented a form field
+- [x] Added comments in `index.html` and CSS files for clarity
+- [x] Included SEO and accessibility improvements such as meta tags and image alt text
 
+## Credits
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration.     
-_______________________________________________________________________________________________________________________________________________________
-
-# Work Completed
-Building a website with HTML & CSS. Work included:
-
-- [x] HTML outlined, used semantic HTML
-- [x] CSS added in hierarchical fashion, to meet design requiremetns
-- [x] Form field added
-- [x] Comments added in index.html and .css files for clarity around structure and function 
-- [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text. 
-##
-_____________________________________________________________________________________________________________
-
-
-______________________________________________________________________________________________
+Additional credit: Hasthemes JavaScript and Bootstrap libraries were used for further integration.
