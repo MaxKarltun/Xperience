@@ -14,11 +14,7 @@ A mobile-responsive UX design agency website built with HTML, CSS, JavaScript, B
 
 ## Live Demo
 
-
-
-
-
-[View the project](https://maxkarltun.github.io/Xperience/)
+Link : https://maxkarltun.github.io/Xperience/
 
 ## Preview
 
